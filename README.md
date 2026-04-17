@@ -173,3 +173,15 @@ Voir le dossier [`docs/`](docs/) pour :
 - **httpx** — Client HTTP async (envoi Slack)
 - **stripe** — SDK officiel (vérification de signature)
 - **uvicorn** — Serveur ASGI
+
+## Licence
+
+Ce projet est distribué sous **[PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)**.
+
+Copyright © 2026 ghostdog-dev. Tous droits réservés.
+
+Utilisation, modification et contribution autorisées à des fins **non commerciales uniquement**. Les issues et pull requests pour améliorer le projet sont les bienvenues.
+
+Toute utilisation ou exploitation commerciale est interdite sans autorisation écrite préalable.
+
+Voir le fichier [LICENSE](LICENSE) pour les termes complets.
